@@ -1,0 +1,10 @@
+{
+  "project-config": {
+    "programming-language": "python",
+    "version": "3.10"
+  },
+  "chatGPT-config": {
+    "api_key": "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"
+  },
+  "git-config": {}
+}
