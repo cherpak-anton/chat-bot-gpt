@@ -6,5 +6,10 @@
   "chatGPT-config": {
     "api_key": "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"
   },
-  "git-config": {}
+  "git-config": {
+    "ssh": "git@github.com:cherpak-anton/chat-bot-gpt.git",
+    "https": "https://github.com/cherpak-anton/chat-bot-gpt.git",
+    "gitHUBcli": "gh repo clone cherpak-anton/chat-bot-gpt",
+    "zip": "https://github.com/cherpak-anton/chat-bot-gpt/archive/refs/heads/main.zip"
+  }
 }
